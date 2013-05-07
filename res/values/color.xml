@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FF136688</color>	    
+    <color name="tabpagebackground">#FF1A9AD6</color>
+    <color name="highlight">#FF58B5E0</color>    
+    <color name="labeltext">#FFFFFFFF</color>    
+</resources>

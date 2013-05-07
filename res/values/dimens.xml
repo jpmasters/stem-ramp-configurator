@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="max_setting_label_width">200px</dimen>
+    <dimen name="max_setting_label_height">70px</dimen>
+    <dimen name="max_setting_textview_width">150px</dimen>
+    <dimen name="max_setting_host_width">180px</dimen>
+    
+</resources>

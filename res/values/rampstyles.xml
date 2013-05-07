@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+	<style name="background">
+	    <item name="android:background">@color/background</item>	    
+	</style>
+	<style name="tabpage">
+	    <item name="android:background">@color/tabpagebackground</item>
+	</style> 
+	<style name="sendbutton">
+	    <item name="android:background">@drawable/button_selector</item>
+	</style>
+	<style name="tablabel">
+	    <item name="android:layout_width">wrap_content</item>
+	    <item name="android:layout_height">wrap_content</item>
+	    <item name="android:height">@dimen/max_setting_label_height</item>
+	    <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+	    <item name="android:width">@dimen/max_setting_label_width</item> 
+	    <item name="android:paddingLeft">5dp</item>	    
+	</style>  
+	<style name="splashimage">
+	    <item name="android:src">@drawable/siemenssplashscreen</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:scaleType">fitXY</item>
+	</style> 
+</resources>
